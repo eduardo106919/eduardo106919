@@ -1,6 +1,6 @@
 # Eduardo Fernandes
 
-Eu sou um estudante de Licenciatura em Engenharia Informática na Universidade do Minho. Todos os repositórios apresentados são de trabalhaos práticos ou unidades curriculares dos quais eu realizei.
+Eu sou um estudante de Licenciatura em Engenharia Informática na Universidade do Minho. Todos os repositórios apresentados são de trabalhos práticos ou unidades curriculares das quais eu realizei.
 
 #
 
