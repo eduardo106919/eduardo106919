@@ -16,6 +16,10 @@ Eu sou um estudante de Licenciatura em Engenharia Informática na Universidade d
 <img align="left" alt="Haskell" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 <br />
 
+#
+
+Coleção de livros referidos na bibliografia de várias cadeiras no curso: [livros](https://drive.google.com/drive/folders/1Y0B2TmDU8slmEi-TgqWqKgTO7I8YRH8U?usp=sharing)
+
 <!--
 #
 
