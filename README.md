@@ -1,6 +1,6 @@
 # Eduardo Fernandes
 
-Eu sou um estudante de Licenciatura em Engenharia Informática na Universidade do Minho e iniciei os meus estudos no ano letivo de 2023/2024. Todos os repositórios apresentados são de unidades curriculares ou trabalhos práticos que realizei.
+Eu sou um estudante de **Licenciatura em Engenharia Informática** na Universidade do Minho e iniciei os meus estudos no ano letivo de 2023/2024. Todos os repositórios apresentados são de unidades curriculares ou trabalhos práticos que realizei.
 
 #
 
@@ -44,7 +44,7 @@ Repositórios dos **trabalhos práticos** que realizei:
 
 ### :books: Livros
 
-Coleção de livros referidos na bibliografia de várias cadeiras no curso: [livros](https://drive.google.com/drive/folders/1Y0B2TmDU8slmEi-TgqWqKgTO7I8YRH8U?usp=sharing)
+Coleção de livros referidos na **bibliografia** de várias unidades curriculares: [livros](https://drive.google.com/drive/folders/1Y0B2TmDU8slmEi-TgqWqKgTO7I8YRH8U?usp=sharing)
 
 #
 
