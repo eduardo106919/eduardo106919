@@ -38,6 +38,7 @@ Repositórios das **unidades curriculares** que realizei:
 
 
 Repositórios dos **trabalhos práticos** que realizei:
+- [Trabalho Prático de Laboratórios de Informática 1 2023/2024](https://github.com/eduardo106919/TP_LI1_23-24)
 - [Trabalho Prático de Sistemas Operativos 2024/2025](https://github.com/eduardo106919/TP_SO_24-25)
 
 #
