@@ -16,29 +16,13 @@ Este repositório serve como um registo organizado do meu trabalho académico ao
 ## 🎓 Instituição de Ensino
 
 * **Universidade:** Universidade do Minho
-* **Curso:** LEI
-* **Grau:** Licenciatura
+* **Curso:** Licenciatura em Engenharia Informática
 * **Período:** 2023/2024 – a realizar
 
 
 ## 🗂️ Organização dos Repositórios
 
-Os repositórios deste perfil estão organizados maioritariamente por **disciplinas** e **projetos académicos**.
-
-Os repositórios das unidades curriculares contém materiais como:
-
-* Resoluções de fichas de exercícios
-* Material teórico apresentado nas aulas
-* Enunciados de trabalhos práticos
-* Enunciados de testes e exames
-* Código desenvolvido no âmbito das disciplinas
-
-Os repositórios dos trabalhos práticos realizados contém materiais como:
-
-* Enunciado do trabalho prático
-* Intruções de utilização
-* Relatório que descreve as decisões tomadas
-* Código fonte da implementação
+Os repositórios deste perfil estão organizados maioritariamente por **disciplinas**, que contêm resoluções de fichas, material teórico e enunciados de testes, e **projetos académicos**.
 
 ### 📘 Disciplinas
 
@@ -67,10 +51,6 @@ Projetos desenvolvidos no âmbito de disciplinas específicas:
 ## 📖 Bibliografia e Recursos de Estudo
 
 Este perfil também referencia um conjunto de **livros em PDF** utilizados ao longo do curso, maioritariamente retirados da bibliografia oficial das disciplinas.
-
-* 📚 Livros técnicos e científicos
-* 📄 Material de apoio ao estudo
-* 📌 Referências académicas
 
 Clica [aqui](https://drive.google.com/drive/folders/1Y0B2TmDU8slmEi-TgqWqKgTO7I8YRH8U?usp=sharing) para acederes à coleção de livros.
 
