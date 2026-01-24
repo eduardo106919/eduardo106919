@@ -30,7 +30,9 @@ Repositórios de algumas unidades curriculares:
 
 * [Algoritmos e Complexidade](https://github.com/eduardo106919/AC)
 * [Base de Dados](https://github.com/eduardo106919/BD)
+* [Cálculo de Programas](https://github.com/eduardo106919/CP)
 * [Desenvolvimento de Sistemas de Software](https://github.com/eduardo106919/DSS)
+* [Inteligência Artificial](https://github.com/eduardo106919/IA)
 * [Laboratórios de Informática 1](https://github.com/eduardo106919/LI1)
 * [Laboratórios de Informática 3](https://github.com/eduardo106919/LI3)
 * [Programação Funcional](https://github.com/eduardo106919/PF)
@@ -43,6 +45,7 @@ Repositórios de algumas unidades curriculares:
 
 Projetos desenvolvidos no âmbito de disciplinas específicas:
 
+* [Trabalho Prático de Cálculo de Programas 2025/2026](https://github.com/eduardo106919/TP_CP_25-26)
 * [Trabalho Prático de Laboratórios de Informática 1 2023/2024](https://github.com/eduardo106919/TP_LI1_23-24)
 * [Trabalho Prático de Laboratórios de Informática 2 2023/2024](https://github.com/eduardo106919/TP_LI2_23-24)
 * [Trabalho Prático de Sistemas Operativos 2024/2025](https://github.com/eduardo106919/TP_SO_24-25)
