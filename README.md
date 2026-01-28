@@ -28,6 +28,31 @@ Os repositórios deste perfil estão organizados maioritariamente por **discipli
 
 Repositórios de algumas unidades curriculares:
 
+| Unidade Curricular                      | Ano Letivo | Repositório                                 |
+| --------------------------------------- | ---------- | :-----------------------------------------: |
+| Algoritmos e Complexidade               | 2024/2025  | [AC](https://github.com/eduardo106919/AC)   |
+| Base de Dados                           | 2024/2025  | [BD](https://github.com/eduardo106919/BD)   |
+| Cálculo de Programas                    | 2025/2026  | [CP](https://github.com/eduardo106919/CP)   |
+| Desenvolvimento de Sistemas de Software | 2025/2026  | [DSS](https://github.com/eduardo106919/DSS) |
+| Inteligência Artificial                 | 2025/2026  | [IA](https://github.com/eduardo106919/IA)   |
+| Laboratórios de Informática 1           | 2023/2024  | [LI1](https://github.com/eduardo106919/LI1) |
+| Laboratórios de Informática 3           | 2024/2025  | [LI3](https://github.com/eduardo106919/LI3) |
+| Programação Funcional                   | 2023/2024  | [PF](https://github.com/eduardo106919/PF)   |
+| Programação Imperativa                  | 2023/2024  | [PI](https://github.com/eduardo106919/PI)   |
+| Programação Orientada a Objetos         | 2024/2025  | [POO](https://github.com/eduardo106919/POO) |
+| Sistemas Operativos                     | 2024/2025  | [SO](https://github.com/eduardo106919/SO)   |
+
+<!--
+
+| Comunicações por Computador             | 2025/2026  | [CC](https://github.com/eduardo106919/CC)   |
+| Interface Pessoa-Máquina                | 2025/2026  | [IPM](https://github.com/eduardo106919/IPM) |
+| Redes de Computadores                   | 2024/2025  | [RC](https://github.com/eduardo106919/RC)   |
+| Sistemas de Computação                  | 2023/2024  | [SC](https://github.com/eduardo106919/SC)   |
+| Sistemas Distribuídos                   | 2025/2026  | [SD](https://github.com/eduardo106919/SD)   |
+-->
+
+<!--
+
 * [Algoritmos e Complexidade](https://github.com/eduardo106919/AC)
 * [Base de Dados](https://github.com/eduardo106919/BD)
 * [Cálculo de Programas](https://github.com/eduardo106919/CP)
@@ -40,15 +65,34 @@ Repositórios de algumas unidades curriculares:
 * [Programação Orientada a Objetos](https://github.com/eduardo106919/POO)
 * [Sistemas Operativos](https://github.com/eduardo106919/SO)
 
+-->
 
 ### 🛠️ Projetos Académicos
 
 Projetos desenvolvidos no âmbito de disciplinas específicas:
 
+| Disciplina                      | Ano Letivo | Repositório                                          |
+| ------------------------------- | ---------- | :--------------------------------------------------: |
+| Cálculo de Programas            | 2025/2026  | [CP](https://github.com/eduardo106919/TP_CP_25-26)   |
+| Laboratórios de Informática 1   | 2023/2024  | [LI1](https://github.com/eduardo106919/TP_LI1_23-24) |
+| Laboratórios de Informática 3   | 2024/2025  | [LI3](https://github.com/eduardo106919/TP_LI2_23-24) |
+| Sistemas Operativos             | 2024/2025  | [SO](https://github.com/eduardo106919/TP_SO_24-25)   |
+
+<!--
+
+| Programação Orientada a Objetos | 2024/2025  | [POO](https://github.com/eduardo106919/TP_POO_24-25) |
+| Sistemas Distribuídos           | 2025/2026  | [SD](https://github.com/eduardo106919/TP_SD_25-26)   |
+
+-->
+
+<!--
+
 * [Trabalho Prático de Cálculo de Programas 2025/2026](https://github.com/eduardo106919/TP_CP_25-26)
 * [Trabalho Prático de Laboratórios de Informática 1 2023/2024](https://github.com/eduardo106919/TP_LI1_23-24)
 * [Trabalho Prático de Laboratórios de Informática 2 2023/2024](https://github.com/eduardo106919/TP_LI2_23-24)
 * [Trabalho Prático de Sistemas Operativos 2024/2025](https://github.com/eduardo106919/TP_SO_24-25)
+
+-->
 
 
 ## 📖 Bibliografia e Recursos de Estudo
