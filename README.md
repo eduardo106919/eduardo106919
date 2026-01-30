@@ -77,12 +77,12 @@ Projetos desenvolvidos no âmbito de disciplinas específicas:
 | Cálculo de Programas            | 2025/2026  | [CP](https://github.com/eduardo106919/TP_CP_25-26)   |
 | Laboratórios de Informática 1   | 2023/2024  | [LI1](https://github.com/eduardo106919/TP_LI1_23-24) |
 | Laboratórios de Informática 2   | 2023/2024  | [LI2](https://github.com/eduardo106919/TP_LI2_23-24) |
+| Sistemas Distribuídos           | 2025/2026  | [SD](https://github.com/eduardo106919/TP_SD_25-26)   |
 | Sistemas Operativos             | 2024/2025  | [SO](https://github.com/eduardo106919/TP_SO_24-25)   |
 
 <!--
 
 | Programação Orientada a Objetos | 2024/2025  | [POO](https://github.com/eduardo106919/TP_POO_24-25) |
-| Sistemas Distribuídos           | 2025/2026  | [SD](https://github.com/eduardo106919/TP_SD_25-26)   |
 
 -->
 
