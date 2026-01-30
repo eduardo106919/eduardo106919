@@ -75,7 +75,7 @@ Projetos desenvolvidos no âmbito de disciplinas específicas:
 | Disciplina                      | Ano Letivo | Repositório                                          |
 | ------------------------------- | ---------- | :--------------------------------------------------: |
 | Cálculo de Programas            | 2025/2026  | [CP](https://github.com/eduardo106919/TP_CP_25-26)   |
-| Inteligência Artificial         | 2025/2026  | [CP](https://github.com/eduardo106919/TP_IA_25-26)   |
+| Inteligência Artificial         | 2025/2026  | [IA](https://github.com/eduardo106919/TP_IA_25-26)   |
 | Laboratórios de Informática 1   | 2023/2024  | [LI1](https://github.com/eduardo106919/TP_LI1_23-24) |
 | Laboratórios de Informática 2   | 2023/2024  | [LI2](https://github.com/eduardo106919/TP_LI2_23-24) |
 | Sistemas Distribuídos           | 2025/2026  | [SD](https://github.com/eduardo106919/TP_SD_25-26)   |
