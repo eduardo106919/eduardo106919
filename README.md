@@ -33,6 +33,7 @@ Repositórios de algumas unidades curriculares:
 | Algoritmos e Complexidade               | 2024/2025  | [AC](https://github.com/eduardo106919/AC)   |
 | Base de Dados                           | 2024/2025  | [BD](https://github.com/eduardo106919/BD)   |
 | Cálculo de Programas                    | 2025/2026  | [CP](https://github.com/eduardo106919/CP)   |
+| Comunicações por Computador             | 2025/2026  | [CC](https://github.com/eduardo106919/CC)   |
 | Desenvolvimento de Sistemas de Software | 2025/2026  | [DSS](https://github.com/eduardo106919/DSS) |
 | Inteligência Artificial                 | 2025/2026  | [IA](https://github.com/eduardo106919/IA)   |
 | Interface Pessoa-Máquina                | 2025/2026  | [IPM](https://github.com/eduardo106919/IPM) |
@@ -46,7 +47,6 @@ Repositórios de algumas unidades curriculares:
 
 <!--
 
-| Comunicações por Computador             | 2025/2026  | [CC](https://github.com/eduardo106919/CC)   |
 | Redes de Computadores                   | 2024/2025  | [RC](https://github.com/eduardo106919/RC)   |
 | Sistemas de Computação                  | 2023/2024  | [SC](https://github.com/eduardo106919/SC)   |
 
