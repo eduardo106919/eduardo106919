@@ -52,21 +52,6 @@ Repositórios de algumas unidades curriculares:
 
 -->
 
-<!--
-
-* [Algoritmos e Complexidade](https://github.com/eduardo106919/AC)
-* [Base de Dados](https://github.com/eduardo106919/BD)
-* [Cálculo de Programas](https://github.com/eduardo106919/CP)
-* [Desenvolvimento de Sistemas de Software](https://github.com/eduardo106919/DSS)
-* [Inteligência Artificial](https://github.com/eduardo106919/IA)
-* [Laboratórios de Informática 1](https://github.com/eduardo106919/LI1)
-* [Laboratórios de Informática 3](https://github.com/eduardo106919/LI3)
-* [Programação Funcional](https://github.com/eduardo106919/PF)
-* [Programação Imperativa](https://github.com/eduardo106919/PI)
-* [Programação Orientada a Objetos](https://github.com/eduardo106919/POO)
-* [Sistemas Operativos](https://github.com/eduardo106919/SO)
-
--->
 
 ### 🛠️ Projetos Académicos
 
@@ -75,6 +60,7 @@ Projetos desenvolvidos no âmbito de disciplinas específicas:
 | Disciplina                      | Ano Letivo | Repositório                                          |
 | ------------------------------- | ---------- | :--------------------------------------------------: |
 | Cálculo de Programas            | 2025/2026  | [CP](https://github.com/eduardo106919/TP_CP_25-26)   |
+| Comunicações por Computador     | 2025/2026  | [CC](https://github.com/eduardo106919/TPs_CC_25-26)  |
 | Inteligência Artificial         | 2025/2026  | [IA](https://github.com/eduardo106919/TP_IA_25-26)   |
 | Laboratórios de Informática 1   | 2023/2024  | [LI1](https://github.com/eduardo106919/TP_LI1_23-24) |
 | Laboratórios de Informática 2   | 2023/2024  | [LI2](https://github.com/eduardo106919/TP_LI2_23-24) |
@@ -84,15 +70,6 @@ Projetos desenvolvidos no âmbito de disciplinas específicas:
 <!--
 
 | Programação Orientada a Objetos | 2024/2025  | [POO](https://github.com/eduardo106919/TP_POO_24-25) |
-
--->
-
-<!--
-
-* [Trabalho Prático de Cálculo de Programas 2025/2026](https://github.com/eduardo106919/TP_CP_25-26)
-* [Trabalho Prático de Laboratórios de Informática 1 2023/2024](https://github.com/eduardo106919/TP_LI1_23-24)
-* [Trabalho Prático de Laboratórios de Informática 2 2023/2024](https://github.com/eduardo106919/TP_LI2_23-24)
-* [Trabalho Prático de Sistemas Operativos 2024/2025](https://github.com/eduardo106919/TP_SO_24-25)
 
 -->
 
@@ -124,30 +101,6 @@ Nesse perfil encontras:
 * Código open-source
 * Ideias em desenvolvimento
 
-
-<!--
-
-## 🧰 Tecnologias Mais Utilizadas
-
-Ao longo do curso, trabalhei com várias tecnologias, incluindo:
-
-* Linguagens: C, Haskell, Java, Python, SQL, ...
-* Ferramentas: Git, GitHub, Linux, Visual Paradigm, ...
-* Conceitos: algoritmos, estruturas de dados, bases de dados, sistemas operativos, IA, ...
-
-
-## 📌 Nota Final
-
-Este perfil tem como objetivo:
-
-* Documentar o meu percurso académico
-* Servir como referência futura
-* Ajudar outros estudantes que estejam a aprender conteúdos semelhantes
-
-Sente-te à vontade para explorar os repositórios ⭐
-Sugestões e correções são sempre bem-vindas!
-
--->
 
 ## 📫 Contactos
 
