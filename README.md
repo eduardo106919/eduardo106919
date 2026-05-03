@@ -95,27 +95,6 @@ Projetos desenvolvidos no âmbito de disciplinas específicas:
 </details>
 
 
-## 📄 Template para Trabalhos
-
-Repositório com a estrutura base para projetos e relatórios académicos:
-
-🔗 **Repositório:** [TP_template](https://github.com/eduardo106919/TP_template)
-
-
-## 📖 Bibliografia e Recursos de Estudo
-
-Este perfil também referencia um conjunto de **livros em PDF** utilizados ao longo do curso, maioritariamente retirados da bibliografia oficial das disciplinas.
-
-Clica [aqui](https://drive.google.com/drive/folders/1Y0B2TmDU8slmEi-TgqWqKgTO7I8YRH8U?usp=sharing) para acederes à coleção de livros.
-
-<!--
-
-> ⚠️ Nota: Estes materiais destinam-se exclusivamente a fins educativos e académicos.
-> Caso exista qualquer problema relacionado com direitos de autor, os conteúdos serão removidos.
-
--->
-
-
 ## 💻 GitHub Pessoal
 
 Para projetos **pessoais**, **experimentais** ou **não relacionados com o meio académico**, visita o meu GitHub pessoal:
